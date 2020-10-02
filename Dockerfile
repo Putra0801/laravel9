@@ -1,6 +1,6 @@
 #memakai prebuild image
 FROM '123majumundur/php-7.1-nginx':cicd
-LABEL maintainer="eurekalabdawara@gmail.com"
+LABEL maintainer="pprawhira@gmail.com"
 
 #install prestissimo untuk instalasi composer yang lebih cepat
 RUN composer global require hirak/prestissimo
